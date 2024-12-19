@@ -3,6 +3,7 @@
 ## Overview
 This project implements a web-based application that leverages the power of the YOLOv8 object detection model to identify essential safety equipment, including helmets, gloves, masks, and goggles, in uploaded images and videos. The system is designed to promote worker safety and compliance in high-risk industries like mining, construction, and manufacturing. By detecting and visually highlighting safety gear, the system offers real-time feedback and insights to ensure adherence to safety protocols.
 
+## Try -> https://helmet-and-safety-element-det-sherin-joys-catherina-js-projects.vercel.app/
 
 ## Prerequisites
 Python 3.8 or higher
